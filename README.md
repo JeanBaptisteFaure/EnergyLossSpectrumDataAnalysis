@@ -12,4 +12,4 @@ Must use QT Creator Version 5.9.9 or other version that is compatible with QCust
 
 To create an application from these files, first open them in QT Creator and build. Then you can find multiple ways online to make an application from a QT build. 
 
-When running the GUI, there is a detailed instructions tab on how to use the GUI at the top left. Use the example files provided to check your understanding. 
+When running the GUI, there is a detailed instructions tab on how to use the GUI at the top left. Use the example files in the "Data" folder provided to check your understanding. 
