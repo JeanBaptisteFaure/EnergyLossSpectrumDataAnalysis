@@ -1,7 +1,7 @@
 # EnergyLossSpectrumDataAnalysis
 Data Analysis Software for Energy Loss Spectra
 
-Given text files with at least raw data of energy loss spectra and an energy file, this gui allows you to analyze said data by:
+Given text files with at least raw data of energy loss spectra and an energy file, this Software provides a GUI that allows you to analyze your data by:
 1. Generating the associated background noise using a linear least squares regresion if you do not provide the background files. 
 2. Calibrating the data to the proper energies using the energy files and your chosen energy peaks for the atom or molecule in question.
 3. Performing a Non-Linear Least Squares Regression and optimizing it using Chi-Squared values in order to fit a gaussian to the best peak in the data.
